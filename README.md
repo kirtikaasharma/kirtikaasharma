@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kirtikaa Sharma.
-- 👀 I’m interested in app development and web development...
-- 🌱 I’m currently pursuing btech.(hons)cse from a private university in India...
-- 💞️ I’m looking to collaborate on different programming projects...
-- 📫 You can reach me through my Gmail,LinkedIn,Instagram etc.
+- 👀 I’m a tech enthusiast who is currently in 2nd year Btech CSE.
+- 🌱 My go to programming language is Java and I someday want to be a full stack developer.
+- 💞️ I’m looking to collaborate on different programming projects.
+- 📫 https://www.linkedin.com/in/kirtikaa-sharma-aa37a1237
 
 <!---
 kirtikaasharma/kirtikaasharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
