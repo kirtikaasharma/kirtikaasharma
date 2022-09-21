@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on different programming projects.
 - 📫LinkedIn Profile:- https://www.linkedin.com/in/kirtikaa-sharma-aa37a1237
 - Gmail Id:- 1- ks243d@gmail.com 2- kirtikaa.sharma_cs.h21@gla.ac.in
-LeetCode Account- https://leetcode.com/kirtikaasharma/
+- LeetCode Account- https://leetcode.com/kirtikaasharma/
 
 <!---
 kirtikaasharma/kirtikaasharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
