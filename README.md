@@ -8,10 +8,14 @@
 - 🌱 I’m currently pursuing **Btech(hons.)in CSE**
 
 - 💬 Ask me about **core Java,Web Development(frontend(html,css,JS)& backend ),Data Analysis/visualization,DSA.**
+- 🔭 I’m a tech enthusiast from India,who wants to be a Software Developer one day.
+- 👨‍💻 I’m really passionate about coding as well as data science.My go to programming language is Java.
+- 👯 I’m looking forward to collaborate on various programming and data science-related projects.
 
 - 📫 How to reach me: **Gmail Id:- 1- ks243d@gmail.com 2- kirtikaa.sharma_cs.h21@gla.ac.in**
--  LinkedIn Profile:- https://www.linkedin.com/in/kirtikaa-sharma-aa37a1237
--  LeetCode Account- https://leetcode.com/kirtikaasharma/
+- 📫 LinkedIn Profile:- https://www.linkedin.com/in/kirtikaa-sharma-aa37a1237
+- 📫 LeetCode Account- https://leetcode.com/kirtikaasharma/
+- ⚡ Fun fact-I am really open-minded when it comes to the music i listen to,which is btw,my favorite thing to do, after coding of course. ;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
