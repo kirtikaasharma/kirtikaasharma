@@ -9,7 +9,9 @@
 
 - 💬 Ask me about **core Java,Web Development(frontend(html,css,JS)& backend ),Data Analysis/visualization,DSA.**
 
-- 📫 How to reach me **Gmail Id:- 1- ks243d@gmail.com 2- kirtikaa.sharma_cs.h21@gla.ac.in**
+- 📫 How to reach me: **Gmail Id:- 1- ks243d@gmail.com 2- kirtikaa.sharma_cs.h21@gla.ac.in**
+-  LinkedIn Profile:- https://www.linkedin.com/in/kirtikaa-sharma-aa37a1237
+-  LeetCode Account- https://leetcode.com/kirtikaasharma/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
