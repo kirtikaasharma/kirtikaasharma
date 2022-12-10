@@ -14,7 +14,7 @@
 - 📫 How to reach me: **Gmail Id:- 1- ks243d@gmail.com 2- kirtikaa.sharma_cs.h21@gla.ac.in**
 - 📫 LinkedIn Profile:- https://www.linkedin.com/in/kirtikaa-sharma-aa37a1237
 - 📫 LeetCode Account- https://leetcode.com/kirtikaasharma/
-- ⚡ Fun fact-I am really open-minded when it comes to the music i listen to,which is btw,my favorite thing to do, after coding of course. ;)
+- ⚡ Fun fact-I am really open-minded when it comes to the music i listen to,which is btw,my favorite thing to do after coding of course. ;)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
